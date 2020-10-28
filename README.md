@@ -1,1 +1,1 @@
-# CSCE_320
+# CSCE 320 - Principles of Data Science
